@@ -1,4 +1,4 @@
 package com.studymavernspringboot.carjpa;
 
-public enum VehicleStatus {
+public interface VehicleJpaRepository {
 }
